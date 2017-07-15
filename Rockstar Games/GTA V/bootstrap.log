@@ -1,0 +1,24 @@
+[2017-06-18 18:01:25.593] [ ERROR ] Option specified in XML does not exist: name="PatchRetries" value="3"
+[2017-06-18 18:01:25.594] [ ERROR ] Option specified in XML does not exist: name="DIPRetries" value="10"
+[2017-06-18 18:01:25.594] [ ERROR ] Option specified in XML does not exist: name="CloudSaveEnabled" value="1"
+[2017-06-18 18:01:25.594] [ ERROR ] Option specified in XML does not exist: name="CloudSaveBetaOnly" value="0"
+[2017-06-18 18:01:25.594] [ ERROR ] Option specified in XML does not exist: name="CloudSaveWorkerThread" value="0"
+[2017-06-18 18:01:25.594] [DISPLAY] Initializing downloader...
+[2017-06-18 18:01:25.594] [DISPLAY] Adding patch checks...
+[2017-06-18 18:01:25.594] [DISPLAY] Checking for updates...
+[2017-06-18 18:01:27.646] [DISPLAY] Download complete!
+[2017-06-18 18:01:27.646] [ ERROR ] Unable to get file version info size for D:\My Game\
+GTA5\Grand Theft Auto V\GTA5.exe
+[2017-06-18 18:01:27.647] [ ERROR ] Last error: 2 : 系统找不到指定的文件。
+
+[2017-06-18 18:01:30.573] [WARNING] No build versioning info found.
+[2017-06-18 18:01:30.575] [ ERROR ] Unable to get file version info size for D:\My Game\
+GTA5\Grand Theft Auto V\PlayGTAV.exe
+[2017-06-18 18:01:30.575] [ ERROR ] Last error: 2 : 系统找不到指定的文件。
+
+[2017-06-18 18:01:31.739] [DISPLAY] Download complete!
+[2017-06-18 18:01:31.740] [ ERROR ] Unable to get file version info size for D:\My Game\
+GTA5\Grand Theft Auto V\GTAVLauncher.exe
+[2017-06-18 18:01:31.741] [ ERROR ] Last error: 2 : 系统找不到指定的文件。
+
+[2017-06-18 18:01:31.741] [DISPLAY] Shutting down downloader...

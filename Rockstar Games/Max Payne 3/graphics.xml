@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Graphics Version="1">
+	<Resolution value="48"/>
+	<Width value="1920"/>
+	<Height value="1080"/>
+	<RefreshRate value="60"/>
+	<Fullscreen value="1"/>
+	<TextureQuality value="0"/>
+	<AnisotropicQuality value="0"/>
+	<Vsync value="0"/>
+	<SSAO value="0"/>
+	<ShadowQuality value="1"/>
+	<ReflectionQuality value="1"/>
+	<WaterQuality value="0"/>
+	<FXAA value="0"/>
+	<Tessellation value="0"/>
+	<HighQualityShaders value="0"/>
+	<DirectXVersion value="1"/>
+	<MSAA value="1"/>
+</Graphics>

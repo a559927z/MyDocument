@@ -1,793 +1,306 @@
-00:23:44:621 (00014696) > [Startup] Rise of the Tomb Raider
-00:23:44:621 (00014696) > [Startup] ==============
-00:23:44:621 (00014696) > [Startup] 
-00:23:44:621 (00014696) > [Startup] Build: v1.0 build 668.1_64
-00:23:44:621 (00014696) > [Startup] Unknown new Windows version, 10.0 (build 14393)
-00:23:44:621 (00014696) > [Startup] Game directory: C:\Users\Kingsing\Documents\Rise of the Tomb Raider\
-00:23:44:621 (00014696) > [Startup] 
-00:23:44:621 (00014696) > [Startup] Memory statistics:
-00:23:44:621 (00014696) > [Startup]   Total RAM = 7.9 GB (8092 MB)
-00:23:44:621 (00014696) > [Startup]   Avail RAM = 4.6 GB (4722 MB)
-00:23:44:621 (00014696) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-00:23:44:621 (00014696) > [Startup]   Avail virtual memory = 131068.8 GB (134214422 MB)
-00:23:44:621 (00014696) > [Startup] 
-00:23:44:621 (00014696) > [NxApp] PreInit
-00:23:44:621 (00014696) > [Steam] Initializing.
-00:23:44:622 (00014696) > [Steam] Successfully initialized.
-00:23:44:622 (00014696) > [SwapChain] Initializing...
-00:23:44:622 (00014696) > [DXGI] Initializing...
-00:23:44:627 (00014696) > [DXGI] Successfully initialized.
-00:23:44:627 (00014696) > [Render] Enumerating adapters:
-00:23:44:627 (00014696) > [Render] 	Adapter 0:
-00:23:44:627 (00014696) > [Monitor] 		Description             : NVIDIA GeForce GTX 960
-00:23:44:627 (00014696) > [Monitor] 		Vendor                  : nVidia (10de)
-00:23:44:627 (00014696) > [Monitor] 		Device                  : 1401
-00:23:44:627 (00014696) > [Monitor] 		Sub system              : 7377
-00:23:44:627 (00014696) > [Monitor] 		Revision                : 161
-00:23:44:627 (00014696) > [Monitor] 		Dedicated Video Memory  : 2016 MB
-00:23:44:627 (00014696) > [Monitor] 		Dedicated System Memory : 0000 MB
-00:23:44:627 (00014696) > [Monitor] 		Shared System Memory    : 4046 MB
-00:23:44:627 (00014696) > [Monitor] 
-00:23:44:627 (00014696) > [Render] Loading NVAPI...
-00:23:44:670 (00014696) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
-00:23:44:670 (00014696) > [Render] Done loading NVAPI
-00:23:44:670 (00014696) > [Render] 	Adapter 1:
-00:23:44:670 (00014696) > [Monitor] 		Description             : Intel(R) HD Graphics 4600
-00:23:44:670 (00014696) > [Monitor] 		Vendor                  : Intel (8086)
-00:23:44:670 (00014696) > [Monitor] 		Device                  : 412
-00:23:44:670 (00014696) > [Monitor] 		Sub system              : d0001458
-00:23:44:670 (00014696) > [Monitor] 		Revision                : 6
-00:23:44:670 (00014696) > [Monitor] 		Dedicated Video Memory  : 0112 MB
-00:23:44:670 (00014696) > [Monitor] 		Dedicated System Memory : 0000 MB
-00:23:44:670 (00014696) > [Monitor] 		Shared System Memory    : 2048 MB
-00:23:44:670 (00014696) > [Monitor] 
-00:23:44:670 (00014696) > [Render] 	Adapter 2:
-00:23:44:670 (00014696) > [Monitor] 		Description             : Microsoft Basic Render Driver
-00:23:44:670 (00014696) > [Monitor] 		Vendor                  : Unknown (1414)
-00:23:44:670 (00014696) > [Monitor] 		Device                  : 8c
-00:23:44:670 (00014696) > [Monitor] 		Sub system              : 0
-00:23:44:670 (00014696) > [Monitor] 		Revision                : 0
-00:23:44:670 (00014696) > [Monitor] 		Dedicated Video Memory  : 0000 MB
-00:23:44:670 (00014696) > [Monitor] 		Dedicated System Memory : 0000 MB
-00:23:44:670 (00014696) > [Monitor] 		Shared System Memory    : 4046 MB
-00:23:44:670 (00014696) > [Monitor] 
-00:23:44:670 (00014696) > [Render] Enumerating monitors:
-00:23:44:670 (00014696) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 2.39
-00:23:44:670 (00014696) > [Render] 
-00:23:44:689 (00014696) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
-00:23:44:689 (00014696) > [Render] NVidia 3D Vision is not enabled.
-00:23:44:689 (00014696) > [Render] Enumerating Display Modes:
-00:23:44:693 (00014696) > [Render] Querying NVAPI for Surround modes
-00:23:44:696 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:697 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:699 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:700 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:701 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:702 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:703 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:704 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:705 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:706 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:707 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:709 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:710 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:711 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:712 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:713 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:714 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:716 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:717 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:718 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:719 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:720 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:721 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:722 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:723 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:724 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:726 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:727 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:728 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:729 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:730 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:732 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:733 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:734 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:735 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:736 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:738 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:739 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:740 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:742 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:743 (00014696) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
-00:23:44:743 (00014696) > [Render] 	Monitor '1 (NVIDIA GeForce GTX 960(1))' (0000000000010001):
-00:23:44:743 (00014696) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  1 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  2 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  3 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  4 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  5 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  6 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  7 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  8 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode  9 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 10 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 11 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 12 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 13 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 14 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 15 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 16 : 1280 x  768 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 17 : 1280 x  768 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 18 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 19 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 20 : 1280 x  800 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 21 : 1280 x  800 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 22 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 23 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 24 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 25 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 26 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 27 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 28 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 29 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 30 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 31 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 32 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 33 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 34 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 35 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 36 : 1920 x 1080 @  30 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 37 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 38 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 39 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 		- Mode 40 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0
-00:23:44:743 (00014696) > [Render] 
-00:23:44:743 (00014696) > [SwapChain] Successfully initialized.
-00:23:44:743 (00014696) > [NxApp] PreInit successful.
-00:23:44:744 (00014696) > [Main] Current directory: F:\MyGames\《古墓丽影：崛起》免安装中文正式版下载\Rise.of.the.Tomb.Raider.CN.HD\RotTR\Rise of the Tomb Raider
-00:23:44:744 (00014696) > [Main] Working directory: F:\MyGames\《古墓丽影：崛起》免安装中文正式版下载\Rise.of.the.Tomb.Raider.CN.HD\RotTR\Rise of the Tomb Raider
-00:23:44:748 (00014696) > [MultiCore] CPU count: logical = 4
-00:23:44:799 (00014696) > [Main] Steam Language: '(null)'
-00:23:44:799 (00014696) > [Main] Settings: Text Language: 'en-us' | VO Language: 'en-us' | Steam Game Language 'en-us'
-00:23:44:800 (00014696) > [Main] Using: Text Language: 'en-us' | VO Language: 'en-us'
-00:23:44:848 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:23:47:552 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:23:47:580 (00014696) > [D3D] Max supported feature level: 11.0
-00:23:47:595 (00008552) > [Render] VMEM Budget: 1714 MB
-00:23:47:595 (00008552) > [Render] VMEM Avaialbe: 1712 MB
-00:23:47:603 (00014696) > [NxApp] Querying GPU Driver Info...
-00:23:47:605 (00014696) > [NxApp] Enumerating available display adapters:
-00:23:47:706 (00014696) > [NxApp] 		NVIDIA GeForce GTX 960 (active)
-00:23:47:721 (00014696) > [NxApp] 		Intel(R) HD Graphics 4600
-00:23:47:721 (00014696) > [NxApp] Successfully found GPU Driver Info
-00:23:47:721 (00014696) > [NxApp] Driver Desc: NVIDIA GeForce GTX 960
-00:23:47:721 (00014696) > [NxApp] Driver Version: 21.21.13.7653
-00:23:47:721 (00014696) > [Settings] DirectX Version: 12
-00:23:47:721 (00014696) > [Settings] Window mode:
-00:23:47:721 (00014696) > [Settings] 	Fullscreen: 1
-00:23:47:721 (00014696) > [Settings] 	Excl.Fullscreen: 0
-00:23:47:722 (00014696) > [Settings] 	Monitor: 0
-00:23:47:722 (00014696) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:23:47:722 (00014696) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:23:47:722 (00014696) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:23:47:722 (00014696) > [Settings] Fullscreen display mode:
-00:23:47:722 (00014696) > [Settings] 	Display mode: 2560x1080@60
-00:23:47:722 (00014696) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:23:47:722 (00014696) > [Settings] 		MultiMonitor: 0
-00:23:47:722 (00014696) > [Settings] 		BezelCorrected: 0
-00:23:47:722 (00014696) > [Settings] 		Stereoscopic3D: 0
-00:23:47:722 (00014696) > [Settings] Window settings:
-00:23:47:722 (00014696) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:23:47:722 (00014696) > [Settings] 	User window: w: 1440 h: 810
-00:23:47:722 (00014696) > [Settings] 	Window maximized: 0
-00:23:47:722 (00014696) > [Settings] Graphics Options:
-00:23:47:722 (00014696) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
-00:23:47:722 (00014696) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:23:47:722 (00014696) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:23:47:722 (00014696) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:23:47:722 (00014696) > [Settings] 	Specular Reflection Quality: 0
-00:23:47:722 (00014696) > [Settings] 	FoliageQuality: 1
-00:23:47:722 (00014696) > [Settings] 	FOVCorrection :1.000000
-00:23:47:722 (00014696) > [Settings] 	LevelOfDetail: 2
-00:23:47:722 (00014696) > [Settings] 	StereoSeparation: 0.022000
-00:23:47:722 (00014696) > [Settings] 	StereoPopOut: 5.000000
-00:23:47:722 (00014696) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:23:47:722 (00014696) > [NxApp] Creating window...
-00:23:47:724 (00015692) > [GameWindow] UpdateState bVisible true
-00:23:47:730 (00015692) > [Input] Keyboard language: "鑻辫(缇庡浗)" (id: 1033)
-00:23:47:730 (00015692) > [Input] Keyboard physical layout: "US" (id: 00000409)
-00:23:47:730 (00015692) > [Input] Joystick            ""   product 8340 vendor 6700 version 272 usage 1 usagePage 12 xinput no
-00:23:47:731 (00015692) > [Input] Joystick            ""   product 50478 vendor 1133 version 8961 usage 2 usagePage 65280 xinput no
-00:23:47:731 (00015692) > [Input] Joystick            ""   product 50478 vendor 1133 version 8961 usage 1 usagePage 65280 xinput no
-00:23:47:731 (00015692) > [Input] Joystick            ""   product 50478 vendor 1133 version 8961 usage 1 usagePage 12 xinput no
-00:23:47:731 (00015692) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 173
-00:23:47:731 (00015692) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 154
-00:23:47:732 (00015692) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
-00:23:47:732 (00015692) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
-00:23:47:734 (00014696) > [NxApp] Window created.
-00:23:47:734 (00014696) > [NxApp] Initializing swapchain...
-00:23:47:734 (00008552) > [SwapChain] Creating...
-00:23:47:735 (00008552) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
-00:23:47:735 (00008552) > [Render] NVidia 3D Vision is not enabled.
-00:23:47:739 (00008552) > [DXGI] Created swapchain.
-00:23:47:757 (00008552) > [SwapChain] Successfully created.
-00:23:47:757 (00014696) > [NxApp] Swapchain initialized
-00:23:47:757 (00014696) > [NxApp] Initializing renderer...
-00:23:47:760 (00014696) > [NxApp] Renderer initialized
-00:23:47:761 (00014696) > [Main] Starting Tomb Raider v1.0 build 668.1_64
-00:23:47:838 (00014696) > [DX12] Nvidia Modified W support not detected
-00:23:47:842 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:23:47:846 (00014696) > [D3D] Opened game pipeline cache file: pipe_cache.bin
-00:23:48:874 (00014696) > [D3D] Read 88563 pipelines from cache file. Added 88563 pipelines to cache, found 0 duplicates.
-00:23:48:874 (00014696) > [D3D] Closed game pipeline cache file: pipe_cache.bin
-00:23:48:874 (00014696) > [D3D] Opened user pipeline cache file: C:\Users\Kingsing\AppData\Roaming\Crystal Dynamics\Rise of the Tomb Raider\pipe_cache.bin
-00:23:48:874 (00014696) > [D3D] Read 2 pipelines from cache file. Added 2 pipelines to cache, found 0 duplicates.
-00:23:48:874 (00014696) > [D3D] Closed user pipeline cache file: C:\Users\Kingsing\AppData\Roaming\Crystal Dynamics\Rise of the Tomb Raider\pipe_cache.bin
-00:23:49:166 (00014696) > [Sound] Initalizing audio...
-00:23:49:208 (00014696) > [Sound] Audio device found. FMOD reports 2 driver(s).
-00:23:49:208 (00014696) > [Sound] Audio Driver Name: l餳 (Realtek High Definition Audio)
-00:23:49:208 (00014696) > [Sound] Speaker Mode: 2
-00:23:52:326 (00014696) > [Input] Assigned gamepad -1 to player 0
-00:23:57:479 (00014696) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=1, HasSEMBeenHandled=0, bIsOnline=1
-00:25:00:605 (00014696) > [Main] Steam Language: '(null)'
-00:25:00:605 (00014696) > [Main] Steam Language: '(null)'
-00:26:04:492 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:04:492 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:04:492 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:04:492 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:04:492 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:885 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:885 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:885 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:885 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:885 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:885 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:885 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:14:937 (00010348) > [Settings] New display settings are:
-00:26:14:937 (00010348) > [Settings] DirectX Version: 12
-00:26:14:937 (00010348) > [Settings] Window mode:
-00:26:14:937 (00010348) > [Settings] 	Fullscreen: 1
-00:26:14:937 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:14:937 (00010348) > [Settings] 	Monitor: 0
-00:26:14:938 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:14:938 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:14:938 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:14:938 (00010348) > [Settings] Fullscreen display mode:
-00:26:14:938 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:14:938 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:14:938 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:14:938 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:14:938 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:14:938 (00010348) > [Settings] Window settings:
-00:26:14:938 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:14:938 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:14:938 (00010348) > [Settings] 	Window maximized: 0
-00:26:14:938 (00010348) > [Settings] Graphics Options:
-00:26:14:938 (00010348) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
-00:26:14:938 (00010348) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:26:14:938 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:26:14:938 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:26:14:938 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:26:14:938 (00010348) > [Settings] 	FoliageQuality: 2
-00:26:14:938 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:14:938 (00010348) > [Settings] 	LevelOfDetail: 2
-00:26:14:938 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:14:938 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:14:938 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:14:938 (00010348) > [Settings] End of settings.
-00:26:14:938 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:14:941 (00014696) > [NxApp] Finished enforcing display settings
-00:26:14:941 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:26:14:941 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:26:14:965 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:26:17:990 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:17:990 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:17:990 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:18:042 (00010348) > [Settings] New display settings are:
-00:26:18:042 (00010348) > [Settings] DirectX Version: 12
-00:26:18:042 (00010348) > [Settings] Window mode:
-00:26:18:042 (00010348) > [Settings] 	Fullscreen: 1
-00:26:18:042 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:18:042 (00010348) > [Settings] 	Monitor: 0
-00:26:18:042 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:18:042 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:18:042 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:18:042 (00010348) > [Settings] Fullscreen display mode:
-00:26:18:042 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:18:042 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:18:042 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:18:042 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:18:042 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:18:042 (00010348) > [Settings] Window settings:
-00:26:18:042 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:18:042 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:18:042 (00010348) > [Settings] 	Window maximized: 0
-00:26:18:042 (00010348) > [Settings] Graphics Options:
-00:26:18:042 (00010348) > [Settings] 	TextureQuality: 0, TextureFiltering: 0, ShadowQuality: 0
-00:26:18:042 (00010348) > [Settings] 	AO: 0, DOF: 0, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 0
-00:26:18:042 (00010348) > [Settings] 	MotionBlur: 0 VignetteBlur: 0 Tessellation: 0
-00:26:18:042 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 0 HairQuality: 0
-00:26:18:042 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:26:18:042 (00010348) > [Settings] 	FoliageQuality: 0
-00:26:18:042 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:18:042 (00010348) > [Settings] 	LevelOfDetail: 0
-00:26:18:042 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:18:042 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:18:042 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:18:042 (00010348) > [Settings] End of settings.
-00:26:18:042 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:18:046 (00014696) > [NxApp] Finished enforcing display settings
-00:26:18:046 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:26:18:046 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:26:18:051 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:26:18:829 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:18:830 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:18:830 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:18:830 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:18:877 (00010348) > [Settings] New display settings are:
-00:26:18:877 (00010348) > [Settings] DirectX Version: 12
-00:26:18:877 (00010348) > [Settings] Window mode:
-00:26:18:877 (00010348) > [Settings] 	Fullscreen: 1
-00:26:18:877 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:18:877 (00010348) > [Settings] 	Monitor: 0
-00:26:18:877 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:18:877 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:18:877 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:18:877 (00010348) > [Settings] Fullscreen display mode:
-00:26:18:877 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:18:877 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:18:877 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:18:877 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:18:877 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:18:877 (00010348) > [Settings] Window settings:
-00:26:18:877 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:18:877 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:18:877 (00010348) > [Settings] 	Window maximized: 0
-00:26:18:877 (00010348) > [Settings] Graphics Options:
-00:26:18:877 (00010348) > [Settings] 	TextureQuality: 0, TextureFiltering: 0, ShadowQuality: 1
-00:26:18:877 (00010348) > [Settings] 	AO: 1, DOF: 0, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:26:18:877 (00010348) > [Settings] 	MotionBlur: 0 VignetteBlur: 0 Tessellation: 0
-00:26:18:877 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 0 HairQuality: 0
-00:26:18:877 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:26:18:877 (00010348) > [Settings] 	FoliageQuality: 0
-00:26:18:877 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:18:877 (00010348) > [Settings] 	LevelOfDetail: 1
-00:26:18:877 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:18:877 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:18:877 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:18:877 (00010348) > [Settings] End of settings.
-00:26:18:877 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:18:880 (00014696) > [NxApp] Finished enforcing display settings
-00:26:18:880 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:26:18:880 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:26:18:884 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:26:19:295 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:295 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:295 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:295 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:295 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:343 (00010348) > [Settings] New display settings are:
-00:26:19:343 (00010348) > [Settings] DirectX Version: 12
-00:26:19:343 (00010348) > [Settings] Window mode:
-00:26:19:343 (00010348) > [Settings] 	Fullscreen: 1
-00:26:19:343 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:19:343 (00010348) > [Settings] 	Monitor: 0
-00:26:19:343 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:19:343 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:19:343 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:19:343 (00010348) > [Settings] Fullscreen display mode:
-00:26:19:343 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:19:343 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:19:343 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:19:343 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:19:343 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:19:343 (00010348) > [Settings] Window settings:
-00:26:19:343 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:19:343 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:19:343 (00010348) > [Settings] 	Window maximized: 0
-00:26:19:343 (00010348) > [Settings] Graphics Options:
-00:26:19:343 (00010348) > [Settings] 	TextureQuality: 1, TextureFiltering: 1, ShadowQuality: 1
-00:26:19:343 (00010348) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:26:19:343 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 0
-00:26:19:343 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:26:19:343 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:26:19:343 (00010348) > [Settings] 	FoliageQuality: 1
-00:26:19:343 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:19:343 (00010348) > [Settings] 	LevelOfDetail: 2
-00:26:19:343 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:19:343 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:19:343 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:19:343 (00010348) > [Settings] End of settings.
-00:26:19:343 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:19:346 (00014696) > [NxApp] Finished enforcing display settings
-00:26:19:347 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:26:19:347 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:26:19:351 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:26:19:731 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:731 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:731 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:731 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:731 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:731 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:19:779 (00010348) > [Settings] New display settings are:
-00:26:19:779 (00010348) > [Settings] DirectX Version: 12
-00:26:19:779 (00010348) > [Settings] Window mode:
-00:26:19:779 (00010348) > [Settings] 	Fullscreen: 1
-00:26:19:779 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:19:779 (00010348) > [Settings] 	Monitor: 0
-00:26:19:779 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:19:779 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:19:779 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:19:779 (00010348) > [Settings] Fullscreen display mode:
-00:26:19:779 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:19:779 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:19:779 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:19:779 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:19:779 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:19:779 (00010348) > [Settings] Window settings:
-00:26:19:779 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:19:779 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:19:779 (00010348) > [Settings] 	Window maximized: 0
-00:26:19:779 (00010348) > [Settings] Graphics Options:
-00:26:19:779 (00010348) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
-00:26:19:779 (00010348) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:26:19:779 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:26:19:779 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:26:19:779 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:26:19:779 (00010348) > [Settings] 	FoliageQuality: 1
-00:26:19:779 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:19:779 (00010348) > [Settings] 	LevelOfDetail: 2
-00:26:19:779 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:19:779 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:19:779 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:19:779 (00010348) > [Settings] End of settings.
-00:26:19:779 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:19:782 (00014696) > [NxApp] Finished enforcing display settings
-00:26:19:782 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:26:19:782 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:26:19:786 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:26:20:315 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:20:315 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:20:315 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:20:315 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:20:315 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:20:315 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:20:315 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:20:366 (00010348) > [Settings] New display settings are:
-00:26:20:366 (00010348) > [Settings] DirectX Version: 12
-00:26:20:366 (00010348) > [Settings] Window mode:
-00:26:20:366 (00010348) > [Settings] 	Fullscreen: 1
-00:26:20:366 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:20:366 (00010348) > [Settings] 	Monitor: 0
-00:26:20:366 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:20:366 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:20:366 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:20:366 (00010348) > [Settings] Fullscreen display mode:
-00:26:20:366 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:20:366 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:20:366 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:20:366 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:20:366 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:20:366 (00010348) > [Settings] Window settings:
-00:26:20:366 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:20:366 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:20:366 (00010348) > [Settings] 	Window maximized: 0
-00:26:20:366 (00010348) > [Settings] Graphics Options:
-00:26:20:366 (00010348) > [Settings] 	TextureQuality: 3, TextureFiltering: 4, ShadowQuality: 2
-00:26:20:366 (00010348) > [Settings] 	AO: 2, DOF: 2, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:26:20:366 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:26:20:366 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:26:20:366 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:26:20:366 (00010348) > [Settings] 	FoliageQuality: 2
-00:26:20:366 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:20:366 (00010348) > [Settings] 	LevelOfDetail: 3
-00:26:20:366 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:20:366 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:20:366 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:20:367 (00010348) > [Settings] End of settings.
-00:26:20:367 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:20:370 (00014696) > [NxApp] Finished enforcing display settings
-00:26:20:370 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:26:20:370 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:26:20:373 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:26:30:922 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:30:922 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:30:922 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:30:922 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:30:922 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:30:922 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:30:922 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:30:989 (00010348) > [Settings] New display settings are:
-00:26:30:989 (00010348) > [Settings] DirectX Version: 12
-00:26:30:989 (00010348) > [Settings] Window mode:
-00:26:30:989 (00010348) > [Settings] 	Fullscreen: 1
-00:26:30:989 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:30:989 (00010348) > [Settings] 	Monitor: 0
-00:26:30:989 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:30:989 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:30:989 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:30:989 (00010348) > [Settings] Fullscreen display mode:
-00:26:30:989 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:30:989 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:30:989 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:30:989 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:30:989 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:30:989 (00010348) > [Settings] Window settings:
-00:26:30:989 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:30:989 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:30:989 (00010348) > [Settings] 	Window maximized: 0
-00:26:30:989 (00010348) > [Settings] Graphics Options:
-00:26:30:989 (00010348) > [Settings] 	TextureQuality: 3, TextureFiltering: 4, ShadowQuality: 2
-00:26:30:989 (00010348) > [Settings] 	AO: 2, DOF: 2, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:26:30:989 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:26:30:989 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:26:30:989 (00010348) > [Settings] 	Specular Reflection Quality: 1
-00:26:30:989 (00010348) > [Settings] 	FoliageQuality: 2
-00:26:30:989 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:30:989 (00010348) > [Settings] 	LevelOfDetail: 3
-00:26:30:989 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:30:989 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:30:989 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:30:989 (00010348) > [Settings] End of settings.
-00:26:30:989 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:30:992 (00014696) > [NxApp] Finished enforcing display settings
-00:26:32:822 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:32:822 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:32:822 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:32:822 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:32:822 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:32:822 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:32:822 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:26:32:883 (00010348) > [Settings] New display settings are:
-00:26:32:884 (00010348) > [Settings] DirectX Version: 12
-00:26:32:884 (00010348) > [Settings] Window mode:
-00:26:32:884 (00010348) > [Settings] 	Fullscreen: 1
-00:26:32:884 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:26:32:884 (00010348) > [Settings] 	Monitor: 0
-00:26:32:884 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:26:32:884 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:26:32:884 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:26:32:884 (00010348) > [Settings] Fullscreen display mode:
-00:26:32:884 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:26:32:884 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:26:32:884 (00010348) > [Settings] 		MultiMonitor: 0
-00:26:32:884 (00010348) > [Settings] 		BezelCorrected: 0
-00:26:32:884 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:26:32:884 (00010348) > [Settings] Window settings:
-00:26:32:884 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:26:32:884 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:26:32:884 (00010348) > [Settings] 	Window maximized: 0
-00:26:32:884 (00010348) > [Settings] Graphics Options:
-00:26:32:884 (00010348) > [Settings] 	TextureQuality: 3, TextureFiltering: 4, ShadowQuality: 2
-00:26:32:884 (00010348) > [Settings] 	AO: 2, DOF: 2, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:26:32:884 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:26:32:884 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:26:32:884 (00010348) > [Settings] 	Specular Reflection Quality: 2
-00:26:32:884 (00010348) > [Settings] 	FoliageQuality: 2
-00:26:32:884 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:26:32:884 (00010348) > [Settings] 	LevelOfDetail: 3
-00:26:32:884 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:26:32:884 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:26:32:884 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:26:32:884 (00010348) > [Settings] End of settings.
-00:26:32:884 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:26:32:887 (00014696) > [NxApp] Finished enforcing display settings
-00:27:25:112 (00014696) > [Input] Gamepads connected: 0 -> 1
-00:27:25:171 (00014696) > [Input] Gamepad for main player: 0
-00:32:12:298 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:12:320 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:12:320 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:12:320 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:12:320 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:12:320 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:16:668 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:16:668 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:16:668 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:16:765 (00010348) > [Settings] New display settings are:
-00:32:16:765 (00010348) > [Settings] DirectX Version: 12
-00:32:16:765 (00010348) > [Settings] Window mode:
-00:32:16:765 (00010348) > [Settings] 	Fullscreen: 1
-00:32:16:765 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:32:16:765 (00010348) > [Settings] 	Monitor: 0
-00:32:16:765 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:32:16:765 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:32:16:765 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:32:16:765 (00010348) > [Settings] Fullscreen display mode:
-00:32:16:765 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:32:16:765 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:32:16:765 (00010348) > [Settings] 		MultiMonitor: 0
-00:32:16:765 (00010348) > [Settings] 		BezelCorrected: 0
-00:32:16:765 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:32:16:765 (00010348) > [Settings] Window settings:
-00:32:16:765 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:32:16:765 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:32:16:765 (00010348) > [Settings] 	Window maximized: 0
-00:32:16:765 (00010348) > [Settings] Graphics Options:
-00:32:16:765 (00010348) > [Settings] 	TextureQuality: 0, TextureFiltering: 0, ShadowQuality: 0
-00:32:16:765 (00010348) > [Settings] 	AO: 0, DOF: 0, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 0
-00:32:16:765 (00010348) > [Settings] 	MotionBlur: 0 VignetteBlur: 0 Tessellation: 0
-00:32:16:765 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 0 HairQuality: 0
-00:32:16:765 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:32:16:765 (00010348) > [Settings] 	FoliageQuality: 0
-00:32:16:765 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:32:16:765 (00010348) > [Settings] 	LevelOfDetail: 0
-00:32:16:765 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:32:16:765 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:32:16:765 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:32:16:765 (00010348) > [Settings] End of settings.
-00:32:16:765 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:32:16:769 (00014696) > [NxApp] Finished enforcing display settings
-00:32:16:770 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:32:16:770 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:32:16:822 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:32:18:338 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:18:338 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:18:338 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:18:338 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:18:396 (00010348) > [Settings] New display settings are:
-00:32:18:396 (00010348) > [Settings] DirectX Version: 12
-00:32:18:396 (00010348) > [Settings] Window mode:
-00:32:18:396 (00010348) > [Settings] 	Fullscreen: 1
-00:32:18:396 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:32:18:396 (00010348) > [Settings] 	Monitor: 0
-00:32:18:396 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:32:18:396 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:32:18:396 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:32:18:396 (00010348) > [Settings] Fullscreen display mode:
-00:32:18:396 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:32:18:396 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:32:18:396 (00010348) > [Settings] 		MultiMonitor: 0
-00:32:18:396 (00010348) > [Settings] 		BezelCorrected: 0
-00:32:18:396 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:32:18:396 (00010348) > [Settings] Window settings:
-00:32:18:396 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:32:18:396 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:32:18:396 (00010348) > [Settings] 	Window maximized: 0
-00:32:18:396 (00010348) > [Settings] Graphics Options:
-00:32:18:396 (00010348) > [Settings] 	TextureQuality: 0, TextureFiltering: 0, ShadowQuality: 1
-00:32:18:396 (00010348) > [Settings] 	AO: 1, DOF: 0, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:32:18:396 (00010348) > [Settings] 	MotionBlur: 0 VignetteBlur: 0 Tessellation: 0
-00:32:18:396 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 0 HairQuality: 0
-00:32:18:396 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:32:18:396 (00010348) > [Settings] 	FoliageQuality: 0
-00:32:18:396 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:32:18:396 (00010348) > [Settings] 	LevelOfDetail: 1
-00:32:18:396 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:32:18:396 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:32:18:396 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:32:18:396 (00010348) > [Settings] End of settings.
-00:32:18:396 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:32:18:399 (00014696) > [NxApp] Finished enforcing display settings
-00:32:18:399 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:32:18:399 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:32:18:403 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:32:19:067 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:067 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:067 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:067 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:067 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:135 (00010348) > [Settings] New display settings are:
-00:32:19:135 (00010348) > [Settings] DirectX Version: 12
-00:32:19:135 (00010348) > [Settings] Window mode:
-00:32:19:135 (00010348) > [Settings] 	Fullscreen: 1
-00:32:19:135 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:32:19:135 (00010348) > [Settings] 	Monitor: 0
-00:32:19:135 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:32:19:135 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:32:19:135 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:32:19:135 (00010348) > [Settings] Fullscreen display mode:
-00:32:19:135 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:32:19:135 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:32:19:135 (00010348) > [Settings] 		MultiMonitor: 0
-00:32:19:135 (00010348) > [Settings] 		BezelCorrected: 0
-00:32:19:135 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:32:19:135 (00010348) > [Settings] Window settings:
-00:32:19:135 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:32:19:135 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:32:19:135 (00010348) > [Settings] 	Window maximized: 0
-00:32:19:135 (00010348) > [Settings] Graphics Options:
-00:32:19:135 (00010348) > [Settings] 	TextureQuality: 1, TextureFiltering: 1, ShadowQuality: 1
-00:32:19:135 (00010348) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:32:19:135 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 0
-00:32:19:135 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:32:19:135 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:32:19:135 (00010348) > [Settings] 	FoliageQuality: 1
-00:32:19:135 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:32:19:135 (00010348) > [Settings] 	LevelOfDetail: 2
-00:32:19:135 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:32:19:135 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:32:19:135 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:32:19:135 (00010348) > [Settings] End of settings.
-00:32:19:135 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:32:19:138 (00014696) > [NxApp] Finished enforcing display settings
-00:32:19:138 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:32:19:138 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:32:19:142 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:32:19:159 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:159 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:159 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:159 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:159 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:159 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:200 (00010348) > [Settings] New display settings are:
-00:32:19:200 (00010348) > [Settings] DirectX Version: 12
-00:32:19:200 (00010348) > [Settings] Window mode:
-00:32:19:200 (00010348) > [Settings] 	Fullscreen: 1
-00:32:19:200 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:32:19:200 (00010348) > [Settings] 	Monitor: 0
-00:32:19:200 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:32:19:200 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:32:19:200 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:32:19:200 (00010348) > [Settings] Fullscreen display mode:
-00:32:19:200 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:32:19:200 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:32:19:200 (00010348) > [Settings] 		MultiMonitor: 0
-00:32:19:200 (00010348) > [Settings] 		BezelCorrected: 0
-00:32:19:200 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:32:19:200 (00010348) > [Settings] Window settings:
-00:32:19:200 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:32:19:200 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:32:19:200 (00010348) > [Settings] 	Window maximized: 0
-00:32:19:200 (00010348) > [Settings] Graphics Options:
-00:32:19:200 (00010348) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
-00:32:19:200 (00010348) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:32:19:200 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:32:19:200 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:32:19:200 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:32:19:200 (00010348) > [Settings] 	FoliageQuality: 1
-00:32:19:200 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:32:19:200 (00010348) > [Settings] 	LevelOfDetail: 2
-00:32:19:200 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:32:19:200 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:32:19:200 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:32:19:200 (00010348) > [Settings] End of settings.
-00:32:19:200 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:32:19:203 (00014696) > [NxApp] Finished enforcing display settings
-00:32:19:203 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:32:19:203 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:32:19:208 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:32:19:827 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:827 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:827 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:827 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:827 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:827 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:827 (00014696) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
-00:32:19:904 (00010348) > [Settings] New display settings are:
-00:32:19:904 (00010348) > [Settings] DirectX Version: 12
-00:32:19:904 (00010348) > [Settings] Window mode:
-00:32:19:904 (00010348) > [Settings] 	Fullscreen: 1
-00:32:19:904 (00010348) > [Settings] 	Excl.Fullscreen: 0
-00:32:19:904 (00010348) > [Settings] 	Monitor: 0
-00:32:19:904 (00010348) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
-00:32:19:904 (00010348) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
-00:32:19:904 (00010348) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
-00:32:19:904 (00010348) > [Settings] Fullscreen display mode:
-00:32:19:904 (00010348) > [Settings] 	Display mode: 2560x1080@60
-00:32:19:904 (00010348) > [Settings] 		VSync: 1, TripleBuffer: 0
-00:32:19:904 (00010348) > [Settings] 		MultiMonitor: 0
-00:32:19:904 (00010348) > [Settings] 		BezelCorrected: 0
-00:32:19:904 (00010348) > [Settings] 		Stereoscopic3D: 0
-00:32:19:904 (00010348) > [Settings] Window settings:
-00:32:19:904 (00010348) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
-00:32:19:904 (00010348) > [Settings] 	User window: w: 1440 h: 810
-00:32:19:904 (00010348) > [Settings] 	Window maximized: 0
-00:32:19:904 (00010348) > [Settings] Graphics Options:
-00:32:19:904 (00010348) > [Settings] 	TextureQuality: 3, TextureFiltering: 4, ShadowQuality: 2
-00:32:19:904 (00010348) > [Settings] 	AO: 2, DOF: 2, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
-00:32:19:904 (00010348) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
-00:32:19:904 (00010348) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-00:32:19:904 (00010348) > [Settings] 	Specular Reflection Quality: 0
-00:32:19:904 (00010348) > [Settings] 	FoliageQuality: 2
-00:32:19:904 (00010348) > [Settings] 	FOVCorrection :1.000000
-00:32:19:904 (00010348) > [Settings] 	LevelOfDetail: 3
-00:32:19:904 (00010348) > [Settings] 	StereoSeparation: 0.022000
-00:32:19:904 (00010348) > [Settings] 	StereoPopOut: 5.000000
-00:32:19:904 (00010348) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-00:32:19:904 (00010348) > [Settings] End of settings.
-00:32:19:904 (00010348) > [NxApp (Render Thread)] Finished enforcing display settings
-00:32:19:907 (00014696) > [NxApp] Finished enforcing display settings
-00:32:19:907 (00014696) > [D3D] PCDX12SwapChain::Resize(2560, 1080, False)
-00:32:19:907 (00014696) > [D3D] PCDX12SwapChain::Resize no change
-00:32:19:912 (00014696) > [HBAO+] HBAO+ Context creation succeeded
-00:32:34:644 (00014696) > [D3D] Saved 20 pipelines to user cache file
+16:05:13:001 (00011400) > [Startup] Rise of the Tomb Raider
+16:05:13:002 (00011400) > [Startup] ==============
+16:05:13:002 (00011400) > [Startup] 
+16:05:13:002 (00011400) > [Startup] Build: v1.0 build 668.1_64
+16:05:13:002 (00011400) > [Startup] Unknown new Windows version, 10.0 (build 14393)
+16:05:13:002 (00011400) > [Startup] Game directory: D:\鐢ㄦ埛鐩綍\鎴戠殑鏂囨。\Rise of the Tomb Raider\
+16:05:13:002 (00011400) > [Startup] 
+16:05:13:002 (00011400) > [Startup] Memory statistics:
+16:05:13:002 (00011400) > [Startup]   Total RAM = 7.9 GB (8092 MB)
+16:05:13:002 (00011400) > [Startup]   Avail RAM = 6.0 GB (6114 MB)
+16:05:13:002 (00011400) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+16:05:13:002 (00011400) > [Startup]   Avail virtual memory = 131068.8 GB (134214422 MB)
+16:05:13:002 (00011400) > [Startup] 
+16:05:13:002 (00011400) > [NxApp] PreInit
+16:05:13:002 (00011400) > [Steam] Initializing.
+16:05:13:006 (00011400) > [Steam] Successfully initialized.
+16:05:13:006 (00011400) > [SwapChain] Initializing...
+16:05:13:006 (00011400) > [DXGI] Initializing...
+16:05:13:020 (00011400) > [DXGI] Successfully initialized.
+16:05:13:020 (00011400) > [Render] Enumerating adapters:
+16:05:13:020 (00011400) > [Render] 	Adapter 0:
+16:05:13:020 (00011400) > [Monitor] 		Description             : NVIDIA GeForce GTX 960
+16:05:13:020 (00011400) > [Monitor] 		Vendor                  : nVidia (10de)
+16:05:13:020 (00011400) > [Monitor] 		Device                  : 1401
+16:05:13:020 (00011400) > [Monitor] 		Sub system              : 7377
+16:05:13:020 (00011400) > [Monitor] 		Revision                : 161
+16:05:13:020 (00011400) > [Monitor] 		Dedicated Video Memory  : 2016 MB
+16:05:13:020 (00011400) > [Monitor] 		Dedicated System Memory : 0000 MB
+16:05:13:020 (00011400) > [Monitor] 		Shared System Memory    : 4046 MB
+16:05:13:020 (00011400) > [Monitor] 
+16:05:13:020 (00011400) > [Render] Loading NVAPI...
+16:05:13:209 (00011400) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+16:05:13:209 (00011400) > [Render] Done loading NVAPI
+16:05:13:209 (00011400) > [Render] 	Adapter 1:
+16:05:13:209 (00011400) > [Monitor] 		Description             : Intel(R) HD Graphics 4600
+16:05:13:209 (00011400) > [Monitor] 		Vendor                  : Intel (8086)
+16:05:13:209 (00011400) > [Monitor] 		Device                  : 412
+16:05:13:209 (00011400) > [Monitor] 		Sub system              : d0001458
+16:05:13:209 (00011400) > [Monitor] 		Revision                : 6
+16:05:13:209 (00011400) > [Monitor] 		Dedicated Video Memory  : 0112 MB
+16:05:13:209 (00011400) > [Monitor] 		Dedicated System Memory : 0000 MB
+16:05:13:209 (00011400) > [Monitor] 		Shared System Memory    : 2048 MB
+16:05:13:209 (00011400) > [Monitor] 
+16:05:13:209 (00011400) > [Render] 	Adapter 2:
+16:05:13:209 (00011400) > [Monitor] 		Description             : Microsoft Basic Render Driver
+16:05:13:209 (00011400) > [Monitor] 		Vendor                  : Unknown (1414)
+16:05:13:209 (00011400) > [Monitor] 		Device                  : 8c
+16:05:13:209 (00011400) > [Monitor] 		Sub system              : 0
+16:05:13:209 (00011400) > [Monitor] 		Revision                : 0
+16:05:13:209 (00011400) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+16:05:13:209 (00011400) > [Monitor] 		Dedicated System Memory : 0000 MB
+16:05:13:209 (00011400) > [Monitor] 		Shared System Memory    : 4046 MB
+16:05:13:209 (00011400) > [Monitor] 
+16:05:13:209 (00011400) > [Render] Enumerating monitors:
+16:05:13:209 (00011400) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 2.39
+16:05:13:209 (00011400) > [Render] 
+16:05:13:261 (00011400) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+16:05:13:261 (00011400) > [Render] NVidia 3D Vision is not enabled.
+16:05:13:261 (00011400) > [Render] Enumerating Display Modes:
+16:05:13:268 (00011400) > [Render] Querying NVAPI for Surround modes
+16:05:13:271 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:273 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:274 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:276 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:278 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:279 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:281 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:282 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:284 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:285 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:287 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:289 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:290 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:292 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:293 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:295 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:297 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:298 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:300 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:302 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:303 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:305 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:306 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:308 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:309 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:311 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:312 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:314 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:316 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:317 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:319 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:321 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:322 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:324 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:325 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:327 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:329 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:330 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:332 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:333 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:335 (00011400) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+16:05:13:335 (00011400) > [Render] 	Monitor '1 (NVIDIA GeForce GTX 960(1))' (0000000000010001):
+16:05:13:335 (00011400) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  1 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  2 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  3 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  4 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  5 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  6 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  7 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  8 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode  9 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 10 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 11 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 12 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 13 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 14 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 15 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 16 : 1280 x  768 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 17 : 1280 x  768 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 18 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 19 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 20 : 1280 x  800 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 21 : 1280 x  800 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 22 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 23 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 24 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 25 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 26 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 27 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 28 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:335 (00011400) > [Render] 		- Mode 29 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 30 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 31 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 32 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 33 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 34 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 35 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 36 : 1920 x 1080 @  30 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 37 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 38 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 39 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 		- Mode 40 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0
+16:05:13:336 (00011400) > [Render] 
+16:05:13:336 (00011400) > [SwapChain] Successfully initialized.
+16:05:13:336 (00011400) > [NxApp] PreInit successful.
+16:05:13:337 (00011400) > [Main] Current directory: Z:\MyGames\《古墓丽影：崛起》免安装中文正式版下载\Rise.of.the.Tomb.Raider.CN.HD\RotTR\Rise of the Tomb Raider
+16:05:13:337 (00011400) > [Main] Working directory: Z:\MyGames\《古墓丽影：崛起》免安装中文正式版下载\Rise.of.the.Tomb.Raider.CN.HD\RotTR\Rise of the Tomb Raider
+16:05:13:360 (00011400) > [MultiCore] CPU count: logical = 4
+16:05:13:487 (00011400) > [Main] Steam Language: '(null)'
+16:05:13:487 (00011400) > [Main] Settings: Text Language: 'zh-chs' | VO Language: 'zh-chs' | Steam Game Language 'en-us'
+16:05:13:487 (00011400) > [Main] Using: Text Language: 'zh-chs' | VO Language: 'zh-chs'
+16:05:13:767 (00011400) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+16:05:19:971 (00011400) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+16:05:19:971 (00011400) > [D3D] Initializing...
+16:05:19:971 (00011400) > [D3D] Loaded d3d11.dll
+16:05:19:971 (00011400) > [D3D] Obtained D3D11CreateDevice address
+16:05:19:971 (00011400) > [D3D] Successfully initialized
+16:05:19:972 (00011400) > [D3D] Max supported feature level: 11.0
+16:05:19:972 (00003644) > [D3D] Creating D3D Device...
+16:05:19:972 (00003644) > [SwapChain] Creating D3D on adapter '1 (NVIDIA GeForce GTX 960(1))'.
+16:05:19:989 (00003644) > [SwapChain] Created D3D device with feature level 11.0.
+16:05:19:990 (00003644) > [D3D] Successfully created.
+16:05:19:990 (00011400) > [NxApp] Querying GPU Driver Info...
+16:05:19:991 (00011400) > [NxApp] Enumerating available display adapters:
+16:05:20:283 (00011400) > [NxApp] 		NVIDIA GeForce GTX 960 (active)
+16:05:20:305 (00011400) > [NxApp] 		Intel(R) HD Graphics 4600
+16:05:20:306 (00011400) > [NxApp] 		NVIDIA GeForce GTX 960
+16:05:20:306 (00011400) > [NxApp] Successfully found GPU Driver Info
+16:05:20:307 (00011400) > [NxApp] Driver Desc: NVIDIA GeForce GTX 960
+16:05:20:307 (00011400) > [NxApp] Driver Version: 21.21.13.7653
+16:05:20:307 (00011400) > [Settings] DirectX Version: 11
+16:05:20:307 (00011400) > [Settings] Window mode:
+16:05:20:307 (00011400) > [Settings] 	Fullscreen: 1
+16:05:20:307 (00011400) > [Settings] 	Excl.Fullscreen: 1
+16:05:20:307 (00011400) > [Settings] 	Monitor: 0
+16:05:20:307 (00011400) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+16:05:20:307 (00011400) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
+16:05:20:307 (00011400) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
+16:05:20:307 (00011400) > [Settings] Fullscreen display mode:
+16:05:20:307 (00011400) > [Settings] 	Display mode: 2560x1080@60
+16:05:20:307 (00011400) > [Settings] 		VSync: 0, TripleBuffer: 0
+16:05:20:307 (00011400) > [Settings] 		MultiMonitor: 0
+16:05:20:307 (00011400) > [Settings] 		BezelCorrected: 0
+16:05:20:307 (00011400) > [Settings] 		Stereoscopic3D: 0
+16:05:20:307 (00011400) > [Settings] Window settings:
+16:05:20:307 (00011400) > [Settings] 	Window rect: x: 240 y: 135 w: 1440 h: 810
+16:05:20:307 (00011400) > [Settings] 	User window: w: 1440 h: 810
+16:05:20:307 (00011400) > [Settings] 	Window maximized: 0
+16:05:20:307 (00011400) > [Settings] Graphics Options:
+16:05:20:307 (00011400) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
+16:05:20:307 (00011400) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
+16:05:20:307 (00011400) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+16:05:20:307 (00011400) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+16:05:20:307 (00011400) > [Settings] 	Specular Reflection Quality: 0
+16:05:20:307 (00011400) > [Settings] 	FoliageQuality: 1
+16:05:20:307 (00011400) > [Settings] 	FOVCorrection :1.000000
+16:05:20:307 (00011400) > [Settings] 	LevelOfDetail: 2
+16:05:20:307 (00011400) > [Settings] 	StereoSeparation: 0.022000
+16:05:20:307 (00011400) > [Settings] 	StereoPopOut: 5.000000
+16:05:20:307 (00011400) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+16:05:20:307 (00011400) > [NxApp] Creating window...
+16:05:20:308 (00011780) > [GameWindow] UpdateState bVisible true
+16:05:20:318 (00011780) > [Input] Keyboard language: "鑻辫(缇庡浗)" (id: 1033)
+16:05:20:318 (00011780) > [Input] Keyboard physical layout: "US" (id: 00000409)
+16:05:20:318 (00011780) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 154
+16:05:20:318 (00011780) > [Input] Joystick            ""   product 8340 vendor 6700 version 272 usage 1 usagePage 12 xinput no
+16:05:20:319 (00011780) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+16:05:20:333 (00011780) > [Input] Joystick            ""   product 50478 vendor 1133 version 8961 usage 2 usagePage 65280 xinput no
+16:05:20:333 (00011780) > [Input] Joystick            ""   product 50478 vendor 1133 version 8961 usage 1 usagePage 65280 xinput no
+16:05:20:333 (00011780) > [Input] Joystick            ""   product 50478 vendor 1133 version 8961 usage 1 usagePage 12 xinput no
+16:05:20:333 (00011780) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 173
+16:05:20:333 (00011780) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
+16:05:20:362 (00011400) > [NxApp] Window created.
+16:05:20:362 (00011400) > [NxApp] Initializing swapchain...
+16:05:20:362 (00003644) > [SwapChain] Creating...
+16:05:20:362 (00003644) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+16:05:20:363 (00003644) > [Render] NVidia 3D Vision is not enabled.
+16:05:20:364 (00003644) > [DXGI] Created swapchain.
+16:05:20:789 (00003644) > [DXGI] Set-up exclusive fullscreen 
+16:05:20:790 (00003644) > [SwapChain] Gamma correction is enabled.
+16:05:20:790 (00003644) > [SwapChain] Successfully created.
+16:05:20:795 (00011400) > [NxApp] Swapchain initialized
+16:05:20:795 (00011400) > [NxApp] Initializing renderer...
+16:05:20:799 (00011400) > [NxApp] Renderer initialized
+16:05:20:799 (00011400) > [Main] Starting Tomb Raider v1.0 build 668.1_64
+16:05:20:936 (00011400) > [D3D] [Render] PCDX11DeviceManager constructor start
+16:05:20:936 (00011400) > [D3D] D3D Adapter Information:
+16:05:20:936 (00011400) > [D3D] Adapter Description: NVIDIA GeForce GTX 960
+16:05:20:937 (00011400) > [D3D] VendorID: 10de
+16:05:20:937 (00011400) > [D3D] DeviceID: 1401
+16:05:20:937 (00011400) > [D3D] Revision: a1
+16:05:20:937 (00011400) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+16:05:20:937 (00011400) > [D3D] NVAPI loaded succesfully.
+16:05:20:937 (00011400) > [D3D] NVAPI Depth Bounds Test supported.
+16:05:21:290 (00011400) > [VXGI] VXGI has been succesfully initialized
+16:05:21:605 (00011400) > [HBAO+] HBAO+ Context creation succeeded
+16:05:21:661 (00011400) > [D3D] D3D Adapter Information:
+16:05:21:661 (00011400) > [D3D] Adapter Description: Intel(R) HD Graphics 4600
+16:05:21:661 (00011400) > [D3D] VendorID: 8086
+16:05:21:661 (00011400) > [D3D] DeviceID: 412
+16:05:21:661 (00011400) > [D3D] Revision: 6
+16:05:21:711 (00011400) > [VXGI] VXGI has been succesfully initialized
+16:05:21:714 (00011400) > [HBAO+] HBAO+ Context creation succeeded
+16:05:21:717 (00011400) > [D3D] [Render] Adapter I has no outputs!
+16:05:21:718 (00011400) > [D3D] D3D Adapter Information:
+16:05:21:718 (00011400) > [D3D] Adapter Description: Microsoft Basic Render Driver
+16:05:21:718 (00011400) > [D3D] VendorID: 1414
+16:05:21:718 (00011400) > [D3D] DeviceID: 8c
+16:05:21:718 (00011400) > [D3D] Revision: 0
+16:05:21:765 (00011400) > [VXGI] VXGI has been succesfully initialized
+16:05:21:768 (00011400) > [HBAO+] HBAO+ Context creation succeeded
+16:05:21:772 (00011400) > [D3D] [Render] Adapter M has no outputs!
+16:05:21:772 (00011400) > [D3D] [Render] PCDX11DeviceManager constructor end
+16:05:21:772 (00011400) > [D3D] D3D Adapter Information:
+16:05:21:772 (00011400) > [D3D] Adapter Description: NVIDIA GeForce GTX 960
+16:05:21:772 (00011400) > [D3D] VendorID: 10de
+16:05:21:772 (00011400) > [D3D] DeviceID: 1401
+16:05:21:772 (00011400) > [D3D] Revision: a1
+16:05:21:772 (00011400) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+16:05:21:772 (00011400) > [D3D] NVAPI loaded succesfully.
+16:05:21:772 (00011400) > [D3D] NVAPI Depth Bounds Test supported.
+16:05:21:819 (00011400) > [VXGI] VXGI has been succesfully initialized
+16:05:21:822 (00011400) > [HBAO+] HBAO+ Context creation succeeded
+16:05:22:187 (00011400) > [Sound] Initalizing audio...
+16:05:22:350 (00011400) > [Sound] Audio device found. FMOD reports 2 driver(s).
+16:05:22:350 (00011400) > [Sound] Audio Driver Name: l餳 (Realtek High Definition Audio)
+16:05:22:351 (00011400) > [Sound] Speaker Mode: 2
+16:05:32:639 (00011400) > [Input] Assigned gamepad -1 to player 0
+16:05:34:317 (00004008) > [Settings] New display settings are:
+16:05:34:317 (00004008) > [Settings] DirectX Version: 11
+16:05:34:317 (00004008) > [Settings] Window mode:
+16:05:34:317 (00004008) > [Settings] 	Fullscreen: 1
+16:05:34:317 (00004008) > [Settings] 	Excl.Fullscreen: 1
+16:05:34:317 (00004008) > [Settings] 	Monitor: 0
+16:05:34:317 (00004008) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+16:05:34:317 (00004008) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1040
+16:05:34:317 (00004008) > [Settings] 		Aspect Ratio: 2.389222 (Pixel Aspect Ratio: 0.992110)
+16:05:34:317 (00004008) > [Settings] Fullscreen display mode:
+16:05:34:317 (00004008) > [Settings] 	Display mode: 2560x1080@60
+16:05:34:317 (00004008) > [Settings] 		VSync: 0, TripleBuffer: 0
+16:05:34:317 (00004008) > [Settings] 		MultiMonitor: 0
+16:05:34:317 (00004008) > [Settings] 		BezelCorrected: 0
+16:05:34:317 (00004008) > [Settings] 		Stereoscopic3D: 0
+16:05:34:317 (00004008) > [Settings] Window settings:
+16:05:34:317 (00004008) > [Settings] 	Window rect: x: 240 y: 135 w: 1440 h: 810
+16:05:34:317 (00004008) > [Settings] 	User window: w: 1440 h: 810
+16:05:34:317 (00004008) > [Settings] 	Window maximized: 0
+16:05:34:317 (00004008) > [Settings] Graphics Options:
+16:05:34:317 (00004008) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
+16:05:34:317 (00004008) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
+16:05:34:317 (00004008) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+16:05:34:317 (00004008) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+16:05:34:317 (00004008) > [Settings] 	Specular Reflection Quality: 0
+16:05:34:317 (00004008) > [Settings] 	FoliageQuality: 1
+16:05:34:317 (00004008) > [Settings] 	FOVCorrection :1.000000
+16:05:34:317 (00004008) > [Settings] 	LevelOfDetail: 2
+16:05:34:317 (00004008) > [Settings] 	StereoSeparation: 0.022000
+16:05:34:317 (00004008) > [Settings] 	StereoPopOut: 5.000000
+16:05:34:317 (00004008) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+16:05:34:317 (00004008) > [Settings] End of settings.
+16:05:34:317 (00004008) > [NxApp (Render Thread)] Finished enforcing display settings
+16:05:34:317 (00011400) > [NxApp] Finished enforcing display settings
+16:05:41:562 (00011400) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=1, HasSEMBeenHandled=0, bIsOnline=1
+16:08:26:933 (00011400) > [Input] Gamepads connected: 0 -> 1
+16:08:26:933 (00011400) > [Input] Gamepad for main player: 0

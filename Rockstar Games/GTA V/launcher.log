@@ -1,0 +1,24 @@
+[2017-07-08 10:22:36.255] [DISPLAY] Using DPI 96
+[2017-07-08 10:22:36.307] [DISPLAY] Unable to get file version info size for Z:\MyGames\《GTA5》\Grand Theft Auto V\GTA5.exe
+[2017-07-08 10:22:36.424] [DISPLAY] File version 10001:50008 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2017-07-08 10:22:36.436] [DISPLAY] File version 10000:14b0001 (for Z:\MyGames\��GTA5��\Grand Theft Auto V\GTAVLauncher.exe)
+[2017-07-08 10:22:36.438] [DISPLAY] Version: 1.0.331.0|0.0.0.0|1.1.5.8|1.0.331.1|FFP
+[2017-07-08 10:22:36.921] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
+[2017-07-08 10:22:37.665] [ ERROR ] Option specified in XML does not exist: name="PatchRetries" value="3"
+[2017-07-08 10:22:37.665] [ ERROR ] Option specified in XML does not exist: name="DIPRetries" value="10"
+[2017-07-08 10:22:37.666] [ ERROR ] Option specified in XML does not exist: name="CloudSaveEnabled" value="1"
+[2017-07-08 10:22:37.666] [ ERROR ] Option specified in XML does not exist: name="CloudSaveBetaOnly" value="0"
+[2017-07-08 10:22:37.666] [ ERROR ] Option specified in XML does not exist: name="CloudSaveWorkerThread" value="0"
+[2017-07-08 10:22:37.766] [DISPLAY] Unable to get file version info size for Z:\MyGames\《GTA5》\Grand Theft Auto V\GTA5.exe
+[2017-07-08 10:22:50.779] [DISPLAY] Opened options file.
+[2017-07-08 10:22:51.123] [WARNING] No build versioning info found.
+[2017-07-08 10:22:51.125] [ ERROR ] ************************************************************************
+[2017-07-08 10:22:51.126] [ ERROR ] * Setting error condition
+[2017-07-08 10:22:51.127] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2017-07-08 10:22:51.127] [ ERROR ] * Code:      2 (d)
+[2017-07-08 10:22:51.128] [ ERROR ] * Extra:     
+[2017-07-08 10:22:51.128] [ ERROR ] * Localised: Rockstar 更新服務無法使用（代碼：13）。請稍候再試或前往 GTA 線上模式狀態頁面（https://support.rockstargames.com/hc/zh-tw/articles/200426246）以查看維護和中斷通知。
+[2017-07-08 10:22:51.128] [ ERROR ] ************************************************************************
+[2017-07-08 10:22:51.175] [DISPLAY] File version 10001:50008 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2017-07-08 10:22:51.224] [DISPLAY] Unable to get file version info size for Z:\MyGames\《GTA5》\Grand Theft Auto V\GTA5.exe
+[2017-07-08 10:22:59.772] [DISPLAY] Uninitializing.
